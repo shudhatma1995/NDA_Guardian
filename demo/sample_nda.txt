@@ -1,0 +1,100 @@
+NON-DISCLOSURE AND RESTRICTIVE COVENANT AGREEMENT
+
+This Non-Disclosure and Restrictive Covenant Agreement ("Agreement") is entered into as of January 15, 2024, by and between:
+
+Acme Corp, a Delaware corporation, with its principal place of business at 123 Innovation Drive, San Francisco, California 94105 ("Company"),
+
+and
+
+John Doe, an individual residing at 456 Maple Street, Los Angeles, California 90001 ("Employee").
+
+---
+
+1. CONFIDENTIALITY OBLIGATIONS
+
+1.1 Definition of Confidential Information. "Confidential Information" means any and all non-public information disclosed by the Company to Employee, whether orally, in writing, electronically, or by any other means, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Confidential Information includes, without limitation, trade secrets, proprietary technology, source code, business plans, financial data, customer lists, pricing information, marketing strategies, and personnel data.
+
+1.2 Exclusions. Confidential Information does not include information that: (a) is or becomes publicly available through no act or omission of Employee; (b) was rightfully known to Employee prior to disclosure without restriction; (c) is rightfully received from a third party without restriction; or (d) is independently developed by Employee without use of Confidential Information.
+
+1.3 Obligations. Employee agrees to: (a) hold all Confidential Information in strict confidence; (b) not disclose Confidential Information to any third party without prior written consent of the Company; (c) use Confidential Information solely for the purpose of performing services for the Company; and (d) protect Confidential Information with at least the same degree of care used for Employee's own confidential information, but no less than reasonable care.
+
+---
+
+2. NON-COMPETE COVENANT
+
+2.1 Scope and Duration. In consideration of employment and access to Confidential Information, Employee agrees that during the term of employment and for a period of twenty-four (24) months following the termination of employment for any reason, Employee shall not, directly or indirectly, engage in, own, manage, operate, control, be employed by, or provide services to any business or enterprise that competes with the Company's principal business activities within a fifty (50) mile radius of any Company office location in the State of California.
+
+2.2 Competing Activities. For purposes of this Section, competing activities include developing, selling, marketing, or distributing software products or services substantially similar to those offered by the Company.
+
+2.3 Consideration. Employee acknowledges that the Company's promise to provide Confidential Information and specialized training constitutes adequate consideration for this covenant.
+
+---
+
+3. INTELLECTUAL PROPERTY ASSIGNMENT
+
+3.1 Assignment of Work Product. Employee hereby irrevocably assigns to the Company all right, title, and interest in and to any and all inventions, discoveries, developments, improvements, innovations, ideas, works of authorship, software, algorithms, designs, formulas, processes, and other intellectual property (collectively, "Work Product") that Employee conceives, creates, develops, or reduces to practice during the term of employment, whether alone or jointly with others, that: (a) relate to the Company's current or reasonably anticipated business; (b) result from or are suggested by Employee's work for the Company; or (c) are made using Company resources, equipment, or facilities.
+
+3.2 Moral Rights Waiver. To the extent permitted by applicable law, Employee hereby irrevocably waives all moral rights in the Work Product, including rights of attribution and integrity.
+
+3.3 Further Assurances. Employee agrees to execute all documents and take all actions reasonably requested by the Company to perfect, record, and enforce the Company's rights in Work Product.
+
+---
+
+4. INDEMNIFICATION
+
+4.1 Mutual Indemnification. Each party ("Indemnifying Party") shall indemnify, defend, and hold harmless the other party and its officers, directors, employees, agents, and successors ("Indemnified Party") from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to the Indemnifying Party's: (a) breach of this Agreement; (b) negligence or willful misconduct; or (c) violation of applicable law.
+
+4.2 Gross Negligence Exception. Notwithstanding any limitation in this Agreement, indemnification obligations shall be uncapped for claims arising from gross negligence or intentional misconduct of the Indemnifying Party.
+
+---
+
+5. LIMITATION OF LIABILITY
+
+5.1 Liability Cap. Except for indemnification obligations arising from gross negligence or intentional misconduct, each party's total cumulative liability to the other party under this Agreement shall not exceed fifty thousand dollars ($50,000 USD), regardless of the theory of liability (contract, tort, or otherwise) and whether or not such party has been advised of the possibility of such damages.
+
+5.2 Consequential Damages Waiver. In no event shall either party be liable to the other for any indirect, incidental, special, exemplary, punitive, or consequential damages, including lost profits or loss of business opportunity, even if advised of the possibility thereof.
+
+---
+
+6. TERM AND TERMINATION
+
+6.1 Term. This Agreement shall commence on the date first written above and shall continue for an initial period of two (2) years ("Initial Term"), unless earlier terminated in accordance with this Section.
+
+6.2 Auto-Renewal. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one-year periods (each a "Renewal Term") unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the then-current term.
+
+6.3 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party materially breaches any provision of this Agreement and fails to cure such breach within fifteen (15) days after receipt of written notice thereof.
+
+6.4 Survival. Sections 1 (Confidentiality), 2 (Non-Compete), 3 (IP Assignment), 4 (Indemnification), and 5 (Limitation of Liability) shall survive any termination or expiration of this Agreement.
+
+---
+
+7. GOVERNING LAW AND DISPUTE RESOLUTION
+
+7.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws principles.
+
+7.2 Jurisdiction. The parties consent to the exclusive jurisdiction of the state and federal courts located in San Francisco County, California for any dispute arising under this Agreement.
+
+7.3 Attorneys' Fees. In any action to enforce this Agreement, the prevailing party shall be entitled to recover its reasonable attorneys' fees and costs from the non-prevailing party.
+
+---
+
+8. GENERAL PROVISIONS
+
+8.1 Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, negotiations, and representations, whether written or oral.
+
+8.2 Amendment. This Agreement may be amended only by a written instrument signed by duly authorized representatives of both parties.
+
+8.3 Severability. If any provision of this Agreement is held invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect.
+
+8.4 Waiver. No failure or delay by either party in exercising any right or remedy shall constitute a waiver thereof.
+
+8.5 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+ACME CORP                                    JOHN DOE
+
+By: _____________________________            By: _____________________________
+Name: Sarah Mitchell                         Name: John Doe
+Title: Chief Executive Officer               Date: January 15, 2024
+Date: January 15, 2024
