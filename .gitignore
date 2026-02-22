@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+dist/
+.venv/
+.vscode/
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+.yarn-integrity
+# IDE Configuration Files
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+*.swp
+*.swm
+*.swo
+# OS generated files
+.DS_Store
+Thumbs.db
